@@ -219,4 +219,5 @@ GitHub: https://github.com/Vivekcommit911
 
 ---
 
-⭐ If you find this project useful, consider giving it a star.
+⭐ If you find this project useful, consider giving it a star. I am a high school grader still learning
+
